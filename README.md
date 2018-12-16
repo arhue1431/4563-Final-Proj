@@ -6,7 +6,7 @@ The data is from NSCLC Radiomics which are found here:
 
   * [NSCLC Radiomics](https://wiki.cancerimagingarchive.net/display/Public/RIDER+Lung+PET-CT#feb29a5b6fcc43b89290329e5e09b138)
   * [CSV File]( https://github.com/arhue1431/4563-Final-Proj/blob/master/Lung1.clinical.csv)
-  * [TCIA File with for images](https://github.com/arhue1431/4563-Final-Proj/blob/master/doiJNLP-zohiLwie.tcia)
+  * [TCIA File with images](https://github.com/arhue1431/4563-Final-Proj/blob/master/doiJNLP-zohiLwie.tcia)
 
 The jupyter notebook is found here:
 
