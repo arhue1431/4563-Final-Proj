@@ -28,3 +28,5 @@ The following resources were used as references:
   Gives example of 3D imaging for the data set used in the data science bowl.
   * [3D Convolution Example](https://www.kaggle.com/sentdex/first-pass-through-data-w-3d-convnet?fbclid=IwAR0voIiPA6chiDa_rNsZHdd4479eDouj_FpBbDSA-IBvpJxQojKlNksFuXQ):  
   Gives example of how to perform 3D convolution of the data set from the data science bowl.
+
+The final presentation presented in class is found here: [Final Presentation](https://github.com/arhue1431/4563-Final-Project/blob/master/Final.pptx) 
