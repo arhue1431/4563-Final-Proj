@@ -17,10 +17,15 @@ The [Folder Access](https://github.com/arhue1431/4563-Final-Proj/blob/master/Fol
 
 The jupyter notebook is found here:
 
+  * [Code](https://github.com/arhue1431/4563-Final-Proj/blob/master/Final.ipynb)
+
 The following resources were used as references:
   * [Data Science Bowl 2017](https://www.kaggle.com/c/data-science-bowl-2017)
+  
   The data science bowl for 2017 on kaggle gave a large set of lung cancer images and asked competitors to work with it. 
   * [3D Imaging Example](https://www.kaggle.com/gzuidhof/full-preprocessing-tutorial)
+  
   Gives example of 3D imaging for the data set used in the data science bowl.
   * [3D Convolution Example](https://www.kaggle.com/sentdex/first-pass-through-data-w-3d-convnet?fbclid=IwAR0voIiPA6chiDa_rNsZHdd4479eDouj_FpBbDSA-IBvpJxQojKlNksFuXQ)
+  
   Gives example of how to perform 3D convolution of the data set from the data science bowl. 
