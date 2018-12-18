@@ -18,8 +18,7 @@ The data is from NSCLC Radiomics which are found here:
   * The [Folder Access](https://github.com/arhue1431/4563-Final-Proj/blob/master/FolderAccess.csv) file was created from the folder names within the extracted data in order to be able to access all the files.
 
 The jupyter notebook is found here:
-
-  [Jupyter Notbook](https://github.com/arhue1431/4563-Final-Proj/blob/master/Final.ipynb)
+[Jupyter Notbook](https://github.com/arhue1431/4563-Final-Proj/blob/master/Final.ipynb)
 
 The following resources were used as references:
   * [Data Science Bowl 2017](https://www.kaggle.com/c/data-science-bowl-2017):  
