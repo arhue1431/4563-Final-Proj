@@ -19,7 +19,7 @@ The data is from NSCLC Radiomics which are found here:
 
 The jupyter notebook is found here:
 
-  * [Code](https://github.com/arhue1431/4563-Final-Proj/blob/master/Final.ipynb)
+  [Jupyter Notbook](https://github.com/arhue1431/4563-Final-Proj/blob/master/Final.ipynb)
 
 The following resources were used as references:
   * [Data Science Bowl 2017](https://www.kaggle.com/c/data-science-bowl-2017):  
